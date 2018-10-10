@@ -1,1 +1,2 @@
-# ARM-Cortex-M3
+# Keil MCB1768
+Currently NES Emulator is under development
